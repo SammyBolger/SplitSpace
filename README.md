@@ -1,6 +1,6 @@
 # SplitSpace
 
-A full-stack web application for splitting expenses among roommates. Create or join households, track shared expenses, view balances, and settle debts — all in one clean, modern app.
+A full stack web application for splitting expenses among roommates. Create or join households, track shared expenses, view balances, and settle debts all in one clean, modern app.
 
 ---
 
@@ -31,7 +31,7 @@ A full-stack web application for splitting expenses among roommates. Create or j
 - **Spending charts** with category breakdowns
 - **Demo mode** to try the app with sample data
 - **Dark/light mode** with system preference detection
-- **Mobile-friendly** responsive design
+- **Mobile friendly** responsive design
 - **Username system** set on signup, editable in settings
 
 ---
@@ -54,7 +54,7 @@ A full-stack web application for splitting expenses among roommates. Create or j
 - **Tailwind CSS** with shadcn/ui components for styling
 - **Recharts** for spending visualizations
 - **TanStack React Query** for data fetching
-- **Wouter** for client-side routing
+- **Wouter** for client side routing
 
 ---
 
@@ -107,7 +107,7 @@ npm start
 |---|---|
 | `SUPABASE_URL` | Supabase project URL |
 | `SUPABASE_ANON_KEY` | Supabase anonymous API key |
-| `SUPABASE_SERVICE_ROLE_KEY` | Supabase service role key (server-side operations) |
+| `SUPABASE_SERVICE_ROLE_KEY` | Supabase service role key (server side operations) |
 | `DATABASE_URL` | PostgreSQL connection string (for Drizzle migrations) |
 | `SESSION_SECRET` | Express session secret |
 
@@ -118,7 +118,7 @@ npm start
 - **Push notifications** for new expenses and settlement reminders
 - **Recurring expenses** for rent, subscriptions, and utilities
 - **Export ledger** to CSV or PDF
-- **Multi-currency support** for international households
+- **Multi currency support** for international households
 - **Expense attachments** for receipts and photos
 
 ---
