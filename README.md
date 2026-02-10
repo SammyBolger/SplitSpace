@@ -1,5 +1,7 @@
 # SplitSpace
 
+**Live Website:** https://splitspace.pages.dev
+
 A full stack web application for splitting expenses among roommates. Create or join households, track shared expenses, view balances, and settle debts all in one clean, modern app.
 
 ---
