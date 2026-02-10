@@ -7,17 +7,12 @@ A full stack web application for splitting expenses among roommates. Create or j
 ## Screenshots
 
 ## Landing Page
-![Landing Page](./resources/landing.png)
+![Landing Page](./resources/home.png)
 
 ---
 
 ## Dashboard
 ![Dashboard](./resources/dashboard.png)
-
----
-
-## Balances
-![Balances](./resources/balances.png)
 
 ---
 
