@@ -122,7 +122,7 @@ npm start
 
 ## Data
 
-All user data is stored in a [Supabase](https://supabase.com) PostgreSQL database with Row Level Security policies for data protection.
+All user data is stored in a [Supabase](https://supabase.com) PostgreSQL database with Row Level Security policies for data security.
 
 ---
 
